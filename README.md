@@ -1,6 +1,6 @@
 # number-7621
 嵌入式大佬课2023
-### download：daxiacode . com/7621.html
+### download：daxiacode.com/7621.html
 
 资源介绍：
 ├──C语言
